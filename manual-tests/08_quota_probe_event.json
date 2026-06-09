@@ -1,0 +1,10 @@
+{
+  "headers": {
+    "user-agent": "ManualQuotaProbe/1.0",
+    "x-forwarded-for": "198.51.100.200"
+  },
+  "requestContext": {
+    "requestId": "manual-quota-probe-008"
+  },
+  "body": "{\"authEmail\":\"info@kinkan.travel\",\"to\":\"valid@example.com\",\"subject\":\"Quota probe\",\"body\":\"<p>Run this same event repeatedly to hit quota limits.</p>\",\"smtpProvider\":\"gmail\"}"
+}

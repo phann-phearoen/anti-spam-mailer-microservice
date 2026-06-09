@@ -1,0 +1,17 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test --test-concurrency=1",
+    "denylist:update": "./scripts/update_disposable_domains.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mysql2": "^3.14.1",
+    "nodemailer": "^6.10.0"
+  }
+}

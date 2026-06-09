@@ -1,0 +1,10 @@
+{
+  "headers": {
+    "user-agent": "ManualTest/1.0",
+    "x-forwarded-for": "198.51.100.14"
+  },
+  "requestContext": {
+    "requestId": "manual-disposable-domain-005"
+  },
+  "body": "{\"authEmail\":\"info@kinkan.travel\",\"to\":\"user@mailinator.com\",\"subject\":\"Denylist check\",\"body\":\"<p>Disposable recipient test</p>\",\"smtpProvider\":\"gmail\"}"
+}

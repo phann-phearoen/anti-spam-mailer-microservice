@@ -1,0 +1,10 @@
+{
+  "headers": {
+    "user-agent": "ManualTest/1.0",
+    "x-forwarded-for": "198.51.100.13"
+  },
+  "requestContext": {
+    "requestId": "manual-unauthorized-sender-004"
+  },
+  "body": "{\"authEmail\":\"unknown@example.com\",\"to\":\"valid@example.com\",\"subject\":\"Unauthorized sender check\",\"body\":\"<p>hello</p>\",\"smtpProvider\":\"gmail\"}"
+}

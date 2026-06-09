@@ -1,0 +1,10 @@
+{
+  "headers": {
+    "user-agent": "ManualTest/1.0",
+    "x-forwarded-for": "198.51.100.10"
+  },
+  "requestContext": {
+    "requestId": "manual-invalid-json-001"
+  },
+  "body": "{invalid-json"
+}

@@ -1,0 +1,4 @@
+# Allowlist exceptions for domains present in the base/custom denylist.
+# One domain per line.
+
+# mailinator.com

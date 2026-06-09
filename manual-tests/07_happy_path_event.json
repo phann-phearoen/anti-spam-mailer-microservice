@@ -1,0 +1,10 @@
+{
+  "headers": {
+    "user-agent": "ManualTest/1.0",
+    "x-forwarded-for": "198.51.100.16"
+  },
+  "requestContext": {
+    "requestId": "manual-happy-path-007"
+  },
+  "body": "{\"authEmail\":\"info@kinkan.travel\",\"to\":\"valid@example.com\",\"subject\":\"Hello from deployed Lambda\",\"body\":\"<p>This is a manual deployed test.</p>\",\"smtpProvider\":\"gmail\"}"
+}

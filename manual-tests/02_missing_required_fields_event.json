@@ -1,0 +1,10 @@
+{
+  "headers": {
+    "user-agent": "ManualTest/1.0",
+    "x-forwarded-for": "198.51.100.11"
+  },
+  "requestContext": {
+    "requestId": "manual-missing-required-002"
+  },
+  "body": "{\"authEmail\":\"info@kinkan.travel\",\"to\":\"valid@example.com\"}"
+}

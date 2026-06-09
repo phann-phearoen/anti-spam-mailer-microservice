@@ -1,0 +1,10 @@
+{
+  "headers": {
+    "user-agent": "ManualTest/1.0",
+    "x-forwarded-for": "198.51.100.12"
+  },
+  "requestContext": {
+    "requestId": "manual-invalid-recipient-003"
+  },
+  "body": "{\"authEmail\":\"info@kinkan.travel\",\"to\":\"not-an-email\",\"subject\":\"Validation check\",\"body\":\"<p>hello</p>\",\"smtpProvider\":\"gmail\"}"
+}

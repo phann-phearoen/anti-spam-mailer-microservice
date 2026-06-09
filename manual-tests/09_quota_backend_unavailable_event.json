@@ -1,0 +1,10 @@
+{
+  "headers": {
+    "user-agent": "ManualQuotaBackendProbe/1.0",
+    "x-forwarded-for": "198.51.100.201"
+  },
+  "requestContext": {
+    "requestId": "manual-quota-db-probe-009"
+  },
+  "body": "{\"authEmail\":\"info@kinkan.travel\",\"to\":\"valid@example.com\",\"subject\":\"Quota backend probe\",\"body\":\"<p>Use this event while intentionally misconfiguring DB connection to verify fail-open or fail-closed behavior.</p>\",\"smtpProvider\":\"gmail\"}"
+}

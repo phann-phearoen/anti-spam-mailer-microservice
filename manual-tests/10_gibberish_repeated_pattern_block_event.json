@@ -1,0 +1,10 @@
+{
+  "headers": {
+    "user-agent": "ManualGibberishProbe/1.0",
+    "x-forwarded-for": "198.51.100.210"
+  },
+  "requestContext": {
+    "requestId": "manual-gibberish-pattern-010"
+  },
+  "body": "{\"authEmail\":\"info@kinkan.travel\",\"to\":\"valid@example.com\",\"subject\":\"pattern check\",\"body\":\"NS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvoNS:IEUHosghvnosduxehgvo\",\"smtpProvider\":\"gmail\"}"
+}

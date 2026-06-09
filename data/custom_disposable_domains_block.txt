@@ -1,0 +1,4 @@
+# Custom disposable domains to force-block for this project.
+# One domain per line.
+
+example-disposable.local

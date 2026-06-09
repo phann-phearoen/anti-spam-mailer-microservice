@@ -1,0 +1,10 @@
+{
+  "headers": {
+    "user-agent": "ManualTest/1.0",
+    "x-forwarded-for": "198.51.100.15"
+  },
+  "requestContext": {
+    "requestId": "manual-spam-warning-006"
+  },
+  "body": "{\"authEmail\":\"info@kinkan.travel\",\"to\":\"valid@example.com\",\"subject\":\"Act now!!!!!! guaranteed profit\",\"body\":\"<p>Limited time offer, click here now!!!!!! https://a.example.com https://b.example.com https://c.example.com https://d.example.com</p>\",\"smtpProvider\":\"gmail\"}"
+}
