@@ -12,7 +12,9 @@ const { applyQuotaLimit } = require('./lib/quota');
 const AUTH_CREDENTIALS = {
     "info@kinkan.travel": process.env.KINKAN_PASSWORD,
     "date@wannagrow.co.jp": process.env.WG_PASSWORD,
-    "business@rsf-1.co.jp": process.env.RSF_PASSWORD
+    "business@rsf-1.co.jp": process.env.RSF_PASSWORD,
+    "kokotag@mama-ranger.com": process.env.KOKOTAG_PASSWORD,
+    "business@exrise-project.co.jp": process.env.EXRISE_PASSWORD,
 };
 
 exports.handler = async (event) => {
